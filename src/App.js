@@ -3,7 +3,7 @@ import Clock, { ClockToggle } from "./components/Clock";
 import Folder from "./components/Folder";
 import Weather from "./components/Weather";
 import Autocomplete from "./components/Autocomplete";
-import { render } from "@testing-library/react";
+// import { render } from "@testing-library/react";
 import { useState } from "react";
 
 const names = [
